@@ -5,7 +5,7 @@ Data analysis project on kultra mega stores inventory And Amazon Products Review
 
 ##Tools used 
 - Sql server for Query
-- .ms excel for data cleaning and visaulization 
+- Ms excel for data cleaning and visaulization 
 ## Data Analysis
 
 ``` SQL Query 
