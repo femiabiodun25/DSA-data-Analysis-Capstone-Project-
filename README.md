@@ -1,7 +1,7 @@
 # DSA-data-Analysis-Capstone-Project-documentation
 
 ## Project Title 
-Data analysis project on kultra mega stores inventory 
+Data analysis project on kultra mega stores inventory And Amazon Products Review Analysis 
 
 ##Tools used 
 - Sql server for Query
